@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="logo.svg"
+   id="svg871"
+   version="1.1"
+   viewBox="0 0 184 31"
+   height="31"
+   width="184">
+  <metadata
+     id="metadata875">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="g869"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-6"
+     inkscape:window-x="-6"
+     inkscape:cy="25.359521"
+     inkscape:cx="169.43441"
+     inkscape:zoom="5.9402174"
+     showgrid="false"
+     id="namedview873"
+     inkscape:window-height="866"
+     inkscape:window-width="1368"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs859">
+    <style
+       id="style854">.a{fill:none;}.b{clip-path:url(#a);}.c{font-size:31px;font-family:BasicSans-Black, Basic Sans;font-weight:800;}.d{font-family:BasicSans-Regular, Basic Sans;font-weight:400;}</style>
+    <clipPath
+       id="a">
+      <rect
+         id="rect856"
+         height="31"
+         width="184"
+         class="a" />
+    </clipPath>
+  </defs>
+  <g
+     id="g869"
+     clip-path="url(#a)"
+     class="b">
+    <text
+       id="text867"
+       transform="translate(-1,30)"
+       class="c"><tspan
+         id="tspan861"
+         y="0"
+         x="0">StellarSpark</tspan></text>
+  </g>
+</svg>
