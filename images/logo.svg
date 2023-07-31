@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="logo.svg"
-   id="svg871"
-   version="1.1"
-   viewBox="0 0 184 31"
+   width="184"
    height="31"
-   width="184">
+   viewBox="0 0 184 31"
+   version="1.1"
+   id="svg871"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata875">
     <rdf:RDF>
@@ -26,25 +26,26 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="g869"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-6"
-     inkscape:window-x="-6"
-     inkscape:cy="25.359521"
-     inkscape:cx="169.43441"
-     inkscape:zoom="5.9402174"
-     showgrid="false"
-     id="namedview873"
-     inkscape:window-height="866"
-     inkscape:window-width="1368"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1368"
+     inkscape:window-height="866"
+     id="namedview873"
+     showgrid="false"
+     inkscape:zoom="5.9402174"
+     inkscape:cx="140.69847"
+     inkscape:cy="25.359521"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g869" />
   <defs
      id="defs859">
     <style
@@ -52,22 +53,25 @@
     <clipPath
        id="a">
       <rect
-         id="rect856"
-         height="31"
+         class="a"
          width="184"
-         class="a" />
+         height="31"
+         id="rect856" />
     </clipPath>
   </defs>
   <g
-     id="g869"
+     class="b"
      clip-path="url(#a)"
-     class="b">
+     id="g869">
     <text
-       id="text867"
-       transform="translate(-1,30)"
-       class="c"><tspan
-         id="tspan861"
-         y="0"
-         x="0">StellarSpark</tspan></text>
+       style="font-size:29.3333px"
+       y="24"
+       x="-1"
+       class="c"
+       id="text867"><tspan
+         style="font-size:29.3333px"
+         x="-1"
+         y="24"
+         id="tspan861">StellarSpark</tspan></text>
   </g>
 </svg>
