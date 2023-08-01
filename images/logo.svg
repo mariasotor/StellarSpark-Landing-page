@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="184"
-   height="31"
-   viewBox="0 0 184 31"
-   version="1.1"
-   id="svg871"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="logo.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   id="svg871"
+   version="1.1"
+   viewBox="0 0 177.30318 27.399708"
+   height="27.399708"
+   width="177.30318">
   <metadata
      id="metadata875">
     <rdf:RDF>
@@ -26,52 +26,65 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:document-rotation="0"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1368"
-     inkscape:window-height="866"
-     id="namedview873"
-     showgrid="false"
-     inkscape:zoom="5.9402174"
-     inkscape:cx="140.69847"
-     inkscape:cy="25.359521"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:current-layer="g869"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g869" />
+     inkscape:window-y="-6"
+     inkscape:window-x="-6"
+     inkscape:cy="29.104976"
+     inkscape:cx="110.78435"
+     inkscape:zoom="5.9402174"
+     showgrid="false"
+     id="namedview873"
+     inkscape:window-height="866"
+     inkscape:window-width="1368"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <defs
      id="defs859">
+    <rect
+       id="rect837"
+       height="43.601097"
+       width="154.70815"
+       y="-8.218729"
+       x="-2.468996" />
     <style
        id="style854">.a{fill:none;}.b{clip-path:url(#a);}.c{font-size:31px;font-family:BasicSans-Black, Basic Sans;font-weight:800;}.d{font-family:BasicSans-Regular, Basic Sans;font-weight:400;}</style>
     <clipPath
        id="a">
       <rect
-         class="a"
-         width="184"
+         y="0"
+         x="0"
+         id="rect856"
          height="31"
-         id="rect856" />
+         width="184"
+         class="a" />
     </clipPath>
   </defs>
   <g
-     class="b"
+     transform="translate(-0.70442513,-2.9883054)"
+     id="g869"
      clip-path="url(#a)"
-     id="g869">
+     class="b">
     <text
-       style="font-size:29.3333px"
-       y="24"
-       x="-1"
+       id="text867"
        class="c"
-       id="text867"><tspan
-         style="font-size:29.3333px"
-         x="-1"
+       x="-1"
+       y="24"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         id="tspan861"
          y="24"
-         id="tspan861">StellarSpark</tspan></text>
+         x="-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">StellarSpark</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect837);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text835"
+       xml:space="preserve" />
   </g>
 </svg>

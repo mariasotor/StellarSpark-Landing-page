@@ -82,12 +82,99 @@ strong {
   gap: 0 2em;
 }
 
-/* footer */
+/* Navigation */
+
+.header {
+  background: #000;
+}
+
+.header-content {
+  display: flex;
+  grid-column: 2/-2;
+}
+
+.logo {
+  display: block;
+}
+
+.logo-link {
+  background: #f28406;
+  padding: 1em;
+}
+
+.nav {
+  position: fixed;
+  background: #000;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 100%;
+  transition: transform 300ms ease-in-out;
+}
+
+.open-nav {
+  transform: translateX(-100%);
+}
+
+.nav-list {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: 700;
+  transition: color 250ms ease-in-out;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #f28406;
+}
+
+.open-nav-btn,
+.close-nav {
+  border: 0;
+  background: 0;
+  cursor: pointer;
+}
+
+.open-nav-btn {
+  margin-left: auto;
+  padding: 0 1em 0 3em;
+}
+
+.open-nav-icon {
+  color: #fff;
+  font-size: 2.5rem;
+}
+
+.close-nav {
+  position: absolute;
+  padding: 1em;
+  right: 0;
+}
+
+.close-nav-icon {
+  font-size: 2.5rem;
+  color: #f28406;
+}
+
+/* Footer */
 
 .footer {
   background-image: linear-gradient(
     rgba(248, 246, 246, 0.6),
-    rgba(209, 251, 246, 0.6)
+    rgba(251, 231, 209, 0.6)
   );
   padding: 4em 0;
   text-align: center;
