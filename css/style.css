@@ -272,6 +272,39 @@ strong {
     grid-column: 2 / span 1;
   }
 
+  /* navigation */
+  .open-nav-btn,
+  .close-nav {
+    display: none;
+  }
+
+  .nav {
+    position: initial;
+  }
+
+  .nav-list {
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+
+  .nav-item {
+    margin-left: 2em;
+  }
+
+  .nav-link {
+    font-size: 1.2rem;
+  }
+
+  .current-page {
+    border-bottom: 2px solid #f28406;
+  }
+
+  .current-page:hover,
+  .current-page:focus {
+    color: #fff;
+  }
+
+  /* Footer */
   .footer {
     align-items: center;
     grid-template-areas: ". main main social .";
