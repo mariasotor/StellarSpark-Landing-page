@@ -62,8 +62,9 @@ strong {
 
 .btn-primary {
   color: #000;
+  letter-spacing: 0.5px;
   background-color: #f28406;
-  margin-top: 0.5em;
+  margin-top: 1.5em;
   justify-self: start;
 }
 
@@ -88,6 +89,12 @@ strong {
   background: #000;
 }
 
+.header-home {
+  background: transparent;
+  position: absolute;
+  width: 100%;
+}
+
 .header-content {
   display: flex;
   grid-column: 2/-2;
@@ -99,7 +106,7 @@ strong {
 
 .logo-link {
   background: #f28406;
-  padding: 1em;
+  padding: 2.5em 0.5em 0;
 }
 
 .nav {
@@ -176,7 +183,7 @@ strong {
     rgba(248, 246, 246, 0.6),
     rgba(251, 231, 209, 0.6)
   );
-  padding: 4em 0;
+  padding: 3em 0;
   text-align: center;
   grid-template-areas:
     ". social ."
@@ -225,7 +232,7 @@ strong {
   background-size: cover;
   background-position: center;
   color: #fff;
-  padding: 4em 0;
+  padding: 8em 0 3em;
 }
 
 .hero > * {
@@ -256,13 +263,17 @@ strong {
       );
   }
 
+  /* Hero section */
+
   .hero {
-    padding: 6em 0;
+    padding: 10em 0 5em;
   }
 
   .hero > * {
     grid-column: 2 / span 2;
   }
+
+  /* Info section */
 
   .col {
     grid-column: span 1;
@@ -273,6 +284,11 @@ strong {
   }
 
   /* navigation */
+
+  .header-home nav {
+    background: transparent;
+  }
+
   .open-nav-btn,
   .close-nav {
     display: none;
