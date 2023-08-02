@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>StellarSpark - Creative Agency</title>
+    <script
+      src="https://kit.fontawesome.com/fcadf26f8f.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header class="header main-grid">
+      <div class="header-content">
+        <a href="index.html" class="logo-link">
+          <img src="images/logo.svg" alt="" class="logo" />
+        </a>
+        <button aria-label="open navigation" class="open-nav-btn">
+          <i class="fa-solid fa-bars open-nav-icon"></i>
+        </button>
+        <nav class="nav">
+          <button aria-label="close navigation" class="close-nav">
+            <i class="fa-solid fa-circle-xmark close-nav-icon"></i>
+          </button>
+          <ul class="nav-list">
+            <li class="nav-item">
+              <a href="index.html" class="nav-link">Home</a>
+            </li>
+            <li class="nav-item">
+              <a href="about.html" class="nav-link">About us</a>
+            </li>
+            <li class="nav-item">
+              <a href="contact.html" class="nav-link current-page">Contact</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main class="main-template main-grid">
+      <h1 class="page-header text-center">Contact.</h1>
+      <p class="subtitle text-center">
+        We are thrilled to connect with you! Whether you're ready to embark on a
+        creative journey with us or have a simple inquiry, our team is here to
+        assist you.
+      </p>
+      <div class="secondary-text">
+        <h2 class="section-title">Getting in touch with us</h2>
+        <p>
+          You can either use the form or send us an email. We will get back in
+          touch with you as soon as possible!
+        </p>
+      </div>
+      <div class="main-text" method="POST">
+        <form class="contact-form" action="#">
+          <label class="fname-label" for="fname">First Name</label>
+          <input class="fname-input" id="fname" type="text" />
+
+          <label class="email-label" for="email">Email</label>
+          <input class="email-input" id="email" type="email" />
+
+          <label class="message-label" for="message">Message</label>
+          <textarea class="message-textarea" id="message"></textarea>
+
+          <button class="btn btn-primary btn-right" type="submit">Send</button>
+        </form>
+      </div>
+    </main>
+
+    <footer class="footer main-grid">
+      <div class="footer-main">
+        <img src="images/logo.svg" alt="" class="logo-footer" />
+        <p class="footer-text">
+          From the first spark of an idea to its execution, we are with you
+          every step of the way, collaborating closely to ensure your objectives
+          are met and exceeded.
+        </p>
+        <div class="footer-fineprint">@StellarSpark 2023</div>
+      </div>
+
+      <ul class="social-list">
+        <li class="social-item">
+          <a href="#" class="social-link"
+            ><i class="fa-brands fa-square-facebook"></i
+          ></a>
+        </li>
+        <li class="social-item">
+          <a href="#" class="social-link"
+            ><i class="fa-brands fa-twitter"></i
+          ></a>
+        </li>
+        <li class="social-item">
+          <a href="#" class="social-link"
+            ><i class="fa-brands fa-instagram"></i
+          ></a>
+        </li>
+      </ul>
+    </footer>
+
+    <script src="js/index.js"></script>
+  </body>
+</html>
